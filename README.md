@@ -85,7 +85,8 @@ current_project: Histoview OCR Application
 
 <div align="center">
 
-[![Histoview](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=Histoview&theme=tokyonight)](https://github.com/eatyeo/cv-app)
+[![Histoview](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=Histoview&theme=tokyonight)](https://github.com/eatyeo/Histoview)
+[![GlobalNationDB](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=GlobalNationsDB&theme=tokyonight)](https://github.com/eatyeo/GlobalNationsDb)
 
 </div>
 
