@@ -1,11 +1,4 @@
 # Hi there! 👋 I'm Emily
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Developer+%26+History+Enthusiast;Building+Computer+Vision+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -86,7 +79,7 @@ current_project: Histoview OCR Application
 <div align="center">
 
 [![Histoview](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=Histoview&theme=tokyonight)](https://github.com/eatyeo/Histoview)
-[![GlobalNationDB](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=GlobalNationsDB&theme=tokyonight)](https://github.com/eatyeo/GlobalNationsDb)
+[![GlobalNationDB](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=GlobalNationsDB&theme=tokyonight)](https://github.com/eatyeo/GlobalNationsDB)
 
 </div>
 
@@ -97,13 +90,5 @@ current_project: Histoview OCR Application
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-atyeo-169b93380)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/eatyeo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eatyeo@uwo.ca)
-
-</div>
-
-<div align="center">
-  
-📧 **Email:** eatyeo@uwo.ca  
-💼 **LinkedIn:** [emily-atyeo-169b93380](https://www.linkedin.com/in/emily-atyeo-169b93380/)  
-🧩 **LeetCode:** [eatyeo](https://www.leetcode.com/eatyeo)
 
 </div>
