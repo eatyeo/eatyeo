@@ -18,7 +18,7 @@ current_project: Histoview OCR Application
 ```
 
 ### 🔭 What I'm working on:
-- **[Histoview](https://github.com/eatyeo/cv-app)** - Computer vision application for document analysis
+- **[Histoview](https://github.com/eatyeo/cv-app)** - Computer vision application for primary source document analysis
 - Exploring advanced computer vision techniques
 - Database Management
 
