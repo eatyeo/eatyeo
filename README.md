@@ -1,18 +1,15 @@
 # Hi there!
-## 🚀 About Me
+## 📊 GitHub Analytics
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eatyeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatyeo&layout=compact&theme=tokyonight"/>
+</div>
 
-### 🔭 What I'm working on:
-- **[Histoview](https://github.com/eatyeo/cv-app)** - Computer vision application for primary source document analysis
-- Exploring advanced computer vision techniques
-- Database Management
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatyeo&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-### 🌱 Currently learning:
-- **Computer Vision** - Advanced image processing and ML techniques
-- **Software Design Patterns** - Building scalable and maintainable code
-- **Machine Learning** - Applied ML for document recognition
-  
 ---
 
 ## 🛠️ Tech Stack
@@ -50,17 +47,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eatyeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatyeo&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatyeo&theme=tokyonight" alt="GitHub Streak" />
 </div>
