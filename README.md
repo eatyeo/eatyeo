@@ -1,14 +1,7 @@
-# Hi there! 👋 I'm Emily
+# Hi there!
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
-```yaml
-name: Emily
-role: Computer Science Student & Developer
-focus: Computer Vision & Databases
-current_project: Histoview OCR Application
-```
 
 ### 🔭 What I'm working on:
 - **[Histoview](https://github.com/eatyeo/cv-app)** - Computer vision application for primary source document analysis
@@ -70,25 +63,4 @@ current_project: Histoview OCR Application
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatyeo&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Histoview](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=Histoview&theme=tokyonight)](https://github.com/eatyeo/Histoview)
-[![GlobalNationsDB](https://github-readme-stats.vercel.app/api/pin/?username=eatyeo&repo=GlobalNationsDB&theme=tokyonight)](https://github.com/eatyeo/GlobalNationsDB)
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-atyeo-169b93380)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/eatyeo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eatyeo@uwo.ca)
-
 </div>
